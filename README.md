@@ -16,3 +16,7 @@
 
 ### ▶️ How to Run
 1. Clone the repo:
+2. Navigate into the directory:
+3. Install the required Python packages:
+4. Run the Flask app:
+5. Visit `http://127.0.0.1:5000/` in your browser and start your adventure!
